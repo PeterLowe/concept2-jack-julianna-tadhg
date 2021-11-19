@@ -17,6 +17,10 @@ This becomes more dangerous with the swirling rocks and debree that is in orbit 
 ...
 Pillars
 3-4 fundementals of this game
+[JN] The game will have zero-gravity parkour mechanics that feel floatly and satisfying to use
+The game will be centred around a complex space stealth machanic that focus's on the use of floating space debree to hide behind
+The game will also have large scale space fights with star wars type of ship combat using blasters and quick and precise movemnts 
+There will be a chainkill mechanic that uses the quick movements of space to jump from kill to kill
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
