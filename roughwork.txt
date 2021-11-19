@@ -20,10 +20,11 @@ He will be a lean mean jesus killing machine in the rumbling debree of the plane
 ...
 >>>>>>> 1720a43b0d11a139e250f68175bf58ba45c97eda
 World Background
-[TM]	
+[TM]	The Planet Gonk. Under a tyranical rule desperate for salvation from their overlords, with poor living conditions in slums
+	and little food to go around the gonks are dying from sickness and starvation. 
 ...
 Pillars
-3-4 fundementals of this game
+[TM]	
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
