@@ -1,11 +1,22 @@
 [Julianna Rowan]Remeber to put your initials in square brackets at rthe start of each section
 
+<<<<<<< HEAD
 Title [Jr]
 Julianna
 
 Elevator pitch 
 [JR] Ninja man travelling around the orbit. Protecting Gonk from followers of space Jesus.
 [JR]  Using his great stealth to assasin- i mean kill them.
+=======
+Title
+insert team member names here
+Jack Nulty
+Elevator pitch 
+Describe your game in 30 seconds or less
+[JN] The game will be about a ninja assassin that is travelling around orbit and his mission is to 
+kill all of the followers of space jesus and save the orbit of the planet gonk and the gonk speices 
+He will be a lean mean jesus killing machine in the rumbling debree of the planet gonks orbit
+>>>>>>> 1720a43b0d11a139e250f68175bf58ba45c97eda
 ...
 World Background
 main differences in your game world
