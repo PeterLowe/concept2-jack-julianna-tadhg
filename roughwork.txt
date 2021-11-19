@@ -13,6 +13,7 @@ World Background
 ...
 Pillars
 [JR] speed, stealth, combat and cool sights
+[JR] he kills the gonks very quickly and quietly
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
