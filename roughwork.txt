@@ -24,9 +24,13 @@ There will be a chainkill mechanic that uses the quick movements of space to jum
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
+[JN]
+the game loop will involve missions to kill and silence jesus's army of followers and to save gonk with the missions having different parts
 ...
 Features points
 key selling points of your game
+the selling point of the game is the idea of a chnage of pace for the AC series with it being in space and in a new game world 
 ...
 Market analysis
 similar games , typical customer, expected sales
+the AC series is a simalar game and the expected customers will be the hardcore and casual gamers and the expexted sales should line up with the rest of the AC series.
