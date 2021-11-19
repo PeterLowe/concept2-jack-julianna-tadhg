@@ -1,10 +1,23 @@
+<<<<<<< HEAD
 [TM]Remeber to put your initials in square brackets at rthe start of each section
+=======
+[Julianna Rowan]Remeber to put your initials in square brackets at rthe start of each section
+>>>>>>> 0e0fba2da9360cad289c0346cfd113cc30f0cd03
 
+<<<<<<< HEAD
+Title [Jr]
+Julianna
+
+Elevator pitch 
+[JR] Ninja man travelling around the orbit. Protecting Gonk from followers of space Jesus.
+[JR]  Using his great stealth to assasin- i mean kill them.
+=======
 Title
 <<<<<<< HEAD
 [TM]	Jack, Julianna, Tadhg
 
 Elevator pitch 
+<<<<<<< HEAD
 [TM]	Ninja Man travelling around in orbit. One Ninja Man must risk his lif to save the incapable citizens of planet Gonk from 
 	the Followers of space Jesus.
 
@@ -12,6 +25,19 @@ Elevator pitch
 World Background
 [TM]	The Planet Gonk. Under a tyranical rule desperate for salvation from their overlords, with poor living conditions in slums
 	and little food to go around the gonks are dying from sickness and starvation. 
+=======
+Describe your game in 30 seconds or less
+[JN] The game will be about a ninja assassin that is travelling around orbit and his mission is to 
+kill all of the followers of space jesus and save the orbit of the planet gonk and the gonk speices 
+He will be a lean mean jesus killing machine in the rumbling debree of the planet gonks orbit
+>>>>>>> 1720a43b0d11a139e250f68175bf58ba45c97eda
+...
+World Background
+main differences in your game world
+[JN] The game world will be based on the planet gonk and in the surrounding orbits. 
+These orbits area a dangerous place for anyone to venture into with the tyranical rule of the planet gonk.
+This becomes more dangerous with the swirling rocks and debree that is in orbit making it a deathtrap.
+>>>>>>> 0e0fba2da9360cad289c0346cfd113cc30f0cd03
 ...
 Pillars
 [TM]	
