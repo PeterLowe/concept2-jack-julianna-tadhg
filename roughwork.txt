@@ -16,7 +16,7 @@ Pillars
 [JR] he kills the gonks very quickly and quietly :)
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+[JR] ninja man flies around in space talking to gonks and defeating enemies. Ultimate goal is to defeat the final boss (space jesus)
 ...
 Features points
 key selling points of your game
