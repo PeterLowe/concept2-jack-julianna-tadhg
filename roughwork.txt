@@ -1,10 +1,11 @@
 [Julianna Rowan]Remeber to put your initials in square brackets at rthe start of each section
 
 Title [Jr]
-insert team member names here
+Julianna
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[JR] Ninja man travelling around the orbit. Protecting Gonk from followers of space Jesus.
+[JR]  Using his great stealth to assasin- i mean kill them.
 ...
 World Background
 main differences in your game world
