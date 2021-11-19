@@ -5,6 +5,9 @@ insert team member names here
 Jack Nulty
 Elevator pitch 
 Describe your game in 30 seconds or less
+[JN] The game will be about a ninja assassin that is travelling around orbit and his mission is to 
+kill all of the followers of space jesus and save the orbit of the planet gonk and the gonk speices 
+He will be a lean mean jesus killing machine in the rumbling debree of the planet gonks orbit
 ...
 World Background
 main differences in your game world
