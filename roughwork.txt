@@ -1,13 +1,15 @@
 [TM]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+[TM]	Jack, Julianna, Tadhg
 
 Elevator pitch 
-Describe your game in 30 seconds or less
-...
+[TM]	Ninja Man travelling around in orbit. One Ninja Man must risk his lif to save the incapable citizens of planet Gonk from 
+	the Followers of space Jesus.
+
+
 World Background
-main differences in your game world
+[TM]	
 ...
 Pillars
 3-4 fundementals of this game
